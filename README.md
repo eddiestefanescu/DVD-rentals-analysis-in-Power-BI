@@ -24,4 +24,5 @@ The PowerBI report contains three distinct pages:
 - Executive dashboard
 - Customer detail
 - Geographical detail
+
 One could argue that the report could’ve also included a film detail page as well as an actor detail page. However, for the purpose of this brief demo the three pages discussed should suffice.
